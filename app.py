@@ -8,7 +8,7 @@ from flask import Flask
 # ================= CONFIGURATION =================
 API_KEY = "5eca871fd120f7c876738fedc98936c0e74a9688"
 # Cleaned Reel Link for Stealth Delivery
-REEL_LINK = "https://www.instagram.com/reel/DUOjpjNgETA/?igsh=N24zYml1NnN0c3lx" 
+REEL_LINK = "https://www.instagram.com/reel/DUTVzCvCANX/?igsh=amxpYnFtNmVwYXF4" 
 
 TG_TOKEN = "8122746592:AAGB8xJOcCZSrpB8vg8egInqoWGYJ6jptfI"
 TG_CHAT_ID = "5148094149"
